@@ -4,7 +4,7 @@ setup(
     name="mysci",
     version="1.0.0",
     description="A sample package",
-    author="Chijun Sun"
+    author="ChijunSun",
     author_email="chijunsun@ucar.edu",
     packages=["mysci"],
     install_requires=[])
