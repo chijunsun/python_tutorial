@@ -7,5 +7,4 @@ setup(
     author="Chijun Sun"
     author_email="chijunsun@ucar.edu",
     packages=["mysci"],
-    install_requires=[],
-)
+    install_requires=[])
